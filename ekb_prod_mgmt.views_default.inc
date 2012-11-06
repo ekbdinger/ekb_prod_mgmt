@@ -38,6 +38,8 @@ function ekb_prod_mgmt_views_default_views() {
     'type' => 'role',
     'role' => array(
       3 => 3,
+      5 => 5,
+      35 => 35,
     ),
   ));
   $handler->override_option('cache', array(
